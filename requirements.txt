@@ -1,0 +1,12 @@
+jupyterlab
+numpy
+netCDF4
+matplotlib.pyplot
+cartopy.crs
+cartopy.feature
+cartopy.crs
+cartopy.io.img_tiles
+pandas
+matplotlib.animation
+math
+voila
